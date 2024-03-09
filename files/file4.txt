@@ -1,0 +1,28 @@
+Name: Beryllium
+Symbol: Be
+Atomic Number: 4
+Atomic Mass: 9.012
+Number of Neutrons: 5
+Number of Protons: 4
+Number of Electrons: 4
+Period: 2
+Group: 2
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Alkaline Earth Metal
+Atomic Radius: 1.4
+Electronegativity: 1.57
+First Ionization: 9.3227
+Density: 1.85E+00
+Melting Point: 1560.15
+Boiling Point: 2742
+Number of Isotopes: 6
+Discoverer: Vaulquelin
+Year: 1798
+Specific Heat: 1.825
+Number of Shells: 2
+Number of Valence: 2

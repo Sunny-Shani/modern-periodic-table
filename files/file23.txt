@@ -1,0 +1,28 @@
+Name: Vanadium
+Symbol: V
+Atomic Number: 23
+Atomic Mass: 50.942
+Number of Neutrons: 28
+Number of Protons: 23
+Number of Electrons: 23
+Period: 4
+Group: 5
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.9
+Electronegativity: 1.63
+First Ionization: 6.7462
+Density: 6.11E+00
+Melting Point: 2175.15
+Boiling Point: 3680
+Number of Isotopes: 9
+Discoverer: del Rio
+Year: 1801
+Specific Heat: 0.489
+Number of Shells: 4
+Number of Valence: 

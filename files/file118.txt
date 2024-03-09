@@ -1,0 +1,28 @@
+Name: Oganesson
+Symbol: Og
+Atomic Number: 118
+Atomic Mass: 294
+Number of Neutrons: 176
+Number of Protons: 118
+Number of Electrons: 118
+Period: 7
+Group: 18
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Noble Gas
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 
+Discoverer: 
+Year: 2006
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 8

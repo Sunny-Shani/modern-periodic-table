@@ -1,0 +1,28 @@
+Name: Lutetium
+Symbol: Lu
+Atomic Number: 71
+Atomic Mass: 174.967
+Number of Neutrons: 104
+Number of Protons: 71
+Number of Electrons: 71
+Period: 6
+Group: 
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.3
+Electronegativity: 1.27
+First Ionization: 5.4259
+Density: 9.84E+00
+Melting Point: 1936.15
+Boiling Point: 3675
+Number of Isotopes: 22
+Discoverer: Urbain/ von Welsbach
+Year: 1907
+Specific Heat: 0.154
+Number of Shells: 6
+Number of Valence: 

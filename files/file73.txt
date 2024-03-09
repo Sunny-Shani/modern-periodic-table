@@ -1,0 +1,28 @@
+Name: Tantalum
+Symbol: Ta
+Atomic Number: 73
+Atomic Mass: 180.948
+Number of Neutrons: 108
+Number of Protons: 73
+Number of Electrons: 73
+Period: 6
+Group: 5
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 2.1
+Electronegativity: 1.5
+First Ionization: 7.5496
+Density: 1.67E+01
+Melting Point: 3269.15
+Boiling Point: 5731
+Number of Isotopes: 19
+Discoverer: Ekeberg
+Year: 1801
+Specific Heat: 0.14
+Number of Shells: 6
+Number of Valence: 

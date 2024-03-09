@@ -1,0 +1,28 @@
+Name: Osmium
+Symbol: Os
+Atomic Number: 76
+Atomic Mass: 190.23
+Number of Neutrons: 114
+Number of Protons: 76
+Number of Electrons: 76
+Period: 6
+Group: 8
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.9
+Electronegativity: 2.2
+First Ionization: 8.4382
+Density: 2.26E+01
+Melting Point: 3300.15
+Boiling Point: 5285
+Number of Isotopes: 19
+Discoverer: Tennant
+Year: 1803
+Specific Heat: 0.13
+Number of Shells: 6
+Number of Valence: 

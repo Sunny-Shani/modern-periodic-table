@@ -1,0 +1,28 @@
+Name: Nitrogen
+Symbol: N
+Atomic Number: 7
+Atomic Mass: 14.007
+Number of Neutrons: 7
+Number of Protons: 7
+Number of Electrons: 7
+Period: 2
+Group: 15
+Phase: gas
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Nonmetal
+Atomic Radius: 0.75
+Electronegativity: 3.04
+First Ionization: 14.5341
+Density: 1.25E-03
+Melting Point: 63.29
+Boiling Point: 77.36
+Number of Isotopes: 8
+Discoverer: Rutherford
+Year: 1772
+Specific Heat: 1.04
+Number of Shells: 2
+Number of Valence: 5

@@ -1,0 +1,28 @@
+Name: Actinium
+Symbol: Ac
+Atomic Number: 89
+Atomic Mass: 227
+Number of Neutrons: 138
+Number of Protons: 89
+Number of Electrons: 89
+Period: 7
+Group: 3
+Phase: solid
+Radioactive: yes
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Actinide
+Atomic Radius: 
+Electronegativity: 1.1
+First Ionization: 5.17
+Density: 1.01E+01
+Melting Point: 1323.15
+Boiling Point: 3471
+Number of Isotopes: 11
+Discoverer: Debierne/Giesel
+Year: 1899
+Specific Heat: 0.12
+Number of Shells: 7
+Number of Valence: 

@@ -1,0 +1,28 @@
+Name: Bohrium
+Symbol: Bh
+Atomic Number: 107
+Atomic Mass: 264
+Number of Neutrons: 157
+Number of Protons: 107
+Number of Electrons: 107
+Period: 7
+Group: 7
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transactinide
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 3.70E+01
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 
+Discoverer: Armbruster and M�nzenberg
+Year: 1981
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

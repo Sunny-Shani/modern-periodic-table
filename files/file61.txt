@@ -1,0 +1,28 @@
+Name: Promethium
+Symbol: Pm
+Atomic Number: 61
+Atomic Mass: 145
+Number of Neutrons: 84
+Number of Protons: 61
+Number of Electrons: 61
+Period: 6
+Group: 
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.6
+Electronegativity: 1.13
+First Ionization: 5.582
+Density: 7.26E+00
+Melting Point: 1204.15
+Boiling Point: 3273
+Number of Isotopes: 14
+Discoverer: Marinsky et al.
+Year: 1945
+Specific Heat: 
+Number of Shells: 6
+Number of Valence: 

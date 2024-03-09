@@ -1,0 +1,28 @@
+Name: Scandium
+Symbol: Sc
+Atomic Number: 21
+Atomic Mass: 44.956
+Number of Neutrons: 24
+Number of Protons: 21
+Number of Electrons: 21
+Period: 4
+Group: 3
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 2.1
+Electronegativity: 1.36
+First Ionization: 6.5615
+Density: 2.99E+00
+Melting Point: 1812.15
+Boiling Point: 3109
+Number of Isotopes: 15
+Discoverer: Nilson
+Year: 1878
+Specific Heat: 0.568
+Number of Shells: 4
+Number of Valence: 

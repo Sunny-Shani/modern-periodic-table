@@ -1,0 +1,28 @@
+Name: Polonium
+Symbol: Po
+Atomic Number: 84
+Atomic Mass: 210
+Number of Neutrons: 126
+Number of Protons: 84
+Number of Electrons: 84
+Period: 6
+Group: 16
+Phase: solid
+Radioactive: yes
+Natural: yes
+Metal: 
+Nonmetal: 
+Metalloid: yes
+Type: Metalloid
+Atomic Radius: 1.5
+Electronegativity: 2
+First Ionization: 8.417
+Density: 9.32E+00
+Melting Point: 527.15
+Boiling Point: 1235
+Number of Isotopes: 34
+Discoverer: Curie
+Year: 1898
+Specific Heat: 
+Number of Shells: 6
+Number of Valence: 6

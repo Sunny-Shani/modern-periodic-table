@@ -1,0 +1,28 @@
+Name: Nobelium
+Symbol: No
+Atomic Number: 102
+Atomic Mass: 259
+Number of Neutrons: 157
+Number of Protons: 102
+Number of Electrons: 102
+Period: 7
+Group: 
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Actinide
+Atomic Radius: 
+Electronegativity: 1.3
+First Ionization: 6.65
+Density: 
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 73
+Discoverer: Ghiorso et al.
+Year: 1958
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

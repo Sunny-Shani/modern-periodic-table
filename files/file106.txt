@@ -1,0 +1,28 @@
+Name: Seaborgium
+Symbol: Sg
+Atomic Number: 106
+Atomic Mass: 266
+Number of Neutrons: 160
+Number of Protons: 106
+Number of Electrons: 106
+Period: 7
+Group: 6
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transactinide
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 3.50E+01
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 
+Discoverer: Ghiorso et al.
+Year: 1974
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

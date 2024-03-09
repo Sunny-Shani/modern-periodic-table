@@ -1,0 +1,28 @@
+Name: Iodine
+Symbol: I
+Atomic Number: 53
+Atomic Mass: 126.904
+Number of Neutrons: 74
+Number of Protons: 53
+Number of Electrons: 53
+Period: 5
+Group: 17
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Halogen
+Atomic Radius: 1.3
+Electronegativity: 2.66
+First Ionization: 10.4513
+Density: 4.93E+00
+Melting Point: 386.65
+Boiling Point: 457.4
+Number of Isotopes: 24
+Discoverer: Courtois
+Year: 1811
+Specific Heat: 0.214
+Number of Shells: 5
+Number of Valence: 7

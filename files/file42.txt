@@ -1,0 +1,28 @@
+Name: Molybdenum
+Symbol: Mo
+Atomic Number: 42
+Atomic Mass: 95.96
+Number of Neutrons: 54
+Number of Protons: 42
+Number of Electrons: 42
+Period: 5
+Group: 6
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 2
+Electronegativity: 2.16
+First Ionization: 7.0924
+Density: 1.02E+01
+Melting Point: 2890.15
+Boiling Point: 4912
+Number of Isotopes: 20
+Discoverer: Scheele
+Year: 1778
+Specific Heat: 0.251
+Number of Shells: 5
+Number of Valence: 

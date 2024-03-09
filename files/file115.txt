@@ -1,0 +1,28 @@
+Name: Moscovium
+Symbol: Mc
+Atomic Number: 115
+Atomic Mass: 288
+Number of Neutrons: 173
+Number of Protons: 115
+Number of Electrons: 115
+Period: 7
+Group: 15
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: 
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 
+Discoverer: 
+Year: 2010
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 5

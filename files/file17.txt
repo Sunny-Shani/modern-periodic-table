@@ -1,0 +1,28 @@
+Name: Chlorine
+Symbol: Cl
+Atomic Number: 17
+Atomic Mass: 35.453
+Number of Neutrons: 18
+Number of Protons: 17
+Number of Electrons: 17
+Period: 3
+Group: 17
+Phase: gas
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Halogen
+Atomic Radius: 0.97
+Electronegativity: 3.16
+First Ionization: 12.9676
+Density: 3.21E-03
+Melting Point: 172.31
+Boiling Point: 239.11
+Number of Isotopes: 11
+Discoverer: Scheele
+Year: 1774
+Specific Heat: 0.479
+Number of Shells: 3
+Number of Valence: 7

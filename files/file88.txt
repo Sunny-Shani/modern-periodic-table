@@ -1,0 +1,28 @@
+Name: Radium
+Symbol: Ra
+Atomic Number: 88
+Atomic Mass: 226
+Number of Neutrons: 138
+Number of Protons: 88
+Number of Electrons: 88
+Period: 7
+Group: 2
+Phase: solid
+Radioactive: yes
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Actinide
+Atomic Radius: 
+Electronegativity: 0.9
+First Ionization: 5.2784
+Density: 5.50E+00
+Melting Point: 973.15
+Boiling Point: 2010
+Number of Isotopes: 15
+Discoverer: Pierre and Marie Curie
+Year: 1898
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 2

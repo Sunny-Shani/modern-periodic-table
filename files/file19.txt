@@ -1,0 +1,28 @@
+Name: Potassium
+Symbol: K
+Atomic Number: 19
+Atomic Mass: 39.098
+Number of Neutrons: 20
+Number of Protons: 19
+Number of Electrons: 19
+Period: 4
+Group: 1
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Alkali Metal
+Atomic Radius: 2.8
+Electronegativity: 0.82
+First Ionization: 4.3407
+Density: 8.62E-01
+Melting Point: 336.5
+Boiling Point: 1032
+Number of Isotopes: 10
+Discoverer: Davy
+Year: 1807
+Specific Heat: 0.757
+Number of Shells: 4
+Number of Valence: 1

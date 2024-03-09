@@ -1,0 +1,28 @@
+Name: Praseodymium
+Symbol: Pr
+Atomic Number: 59
+Atomic Mass: 140.908
+Number of Neutrons: 82
+Number of Protons: 59
+Number of Electrons: 59
+Period: 6
+Group: 
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.7
+Electronegativity: 1.13
+First Ionization: 5.473
+Density: 6.77E+00
+Melting Point: 1204.15
+Boiling Point: 3793
+Number of Isotopes: 15
+Discoverer: von Welsbach
+Year: 1885
+Specific Heat: 0.193
+Number of Shells: 6
+Number of Valence: 

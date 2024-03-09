@@ -1,0 +1,28 @@
+Name: Carbon
+Symbol: C
+Atomic Number: 6
+Atomic Mass: 12.011
+Number of Neutrons: 6
+Number of Protons: 6
+Number of Electrons: 6
+Period: 2
+Group: 14
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Nonmetal
+Atomic Radius: 0.91
+Electronegativity: 2.55
+First Ionization: 11.2603
+Density: 2.27E+00
+Melting Point: 3948.15
+Boiling Point: 4300
+Number of Isotopes: 7
+Discoverer: Prehistoric
+Year: 
+Specific Heat: 0.709
+Number of Shells: 2
+Number of Valence: 4

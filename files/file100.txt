@@ -1,0 +1,28 @@
+Name: Fermium
+Symbol: Fm
+Atomic Number: 100
+Atomic Mass: 257
+Number of Neutrons: 157
+Number of Protons: 100
+Number of Electrons: 100
+Period: 7
+Group: 
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Actinide
+Atomic Radius: 
+Electronegativity: 1.3
+First Ionization: 6.5
+Density: 
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 103
+Discoverer: Ghiorso et al.
+Year: 1953
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

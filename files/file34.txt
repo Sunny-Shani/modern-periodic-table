@@ -1,0 +1,28 @@
+Name: Selenium
+Symbol: Se
+Atomic Number: 34
+Atomic Mass: 78.96
+Number of Neutrons: 45
+Number of Protons: 34
+Number of Electrons: 34
+Period: 4
+Group: 16
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Nonmetal
+Atomic Radius: 1.2
+Electronegativity: 2.55
+First Ionization: 9.7524
+Density: 4.81E+00
+Melting Point: 494.15
+Boiling Point: 958
+Number of Isotopes: 20
+Discoverer: Berzelius
+Year: 1817
+Specific Heat: 0.321
+Number of Shells: 4
+Number of Valence: 6

@@ -1,0 +1,28 @@
+Name: Neon
+Symbol: Ne
+Atomic Number: 10
+Atomic Mass: 20.18
+Number of Neutrons: 10
+Number of Protons: 10
+Number of Electrons: 10
+Period: 2
+Group: 18
+Phase: gas
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Noble Gas
+Atomic Radius: 0.51
+Electronegativity: 
+First Ionization: 21.5645
+Density: 9.00E-04
+Melting Point: 24.703
+Boiling Point: 27.07
+Number of Isotopes: 8
+Discoverer: Ramsay and Travers
+Year: 1898
+Specific Heat: 1.03
+Number of Shells: 2
+Number of Valence: 8

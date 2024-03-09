@@ -1,0 +1,28 @@
+Name: Meitnerium
+Symbol: Mt
+Atomic Number: 109
+Atomic Mass: 268
+Number of Neutrons: 159
+Number of Protons: 109
+Number of Electrons: 109
+Period: 7
+Group: 9
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transactinide
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 3.50E+01
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 
+Discoverer: "GSI, Darmstadt, West Germany"
+Year: 1982
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

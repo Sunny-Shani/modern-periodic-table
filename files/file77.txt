@@ -1,0 +1,28 @@
+Name: Iridium
+Symbol: Ir
+Atomic Number: 77
+Atomic Mass: 192.217
+Number of Neutrons: 115
+Number of Protons: 77
+Number of Electrons: 77
+Period: 6
+Group: 9
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.9
+Electronegativity: 2.2
+First Ionization: 8.967
+Density: 2.26E+01
+Melting Point: 2716.15
+Boiling Point: 4701
+Number of Isotopes: 25
+Discoverer: Tennant
+Year: 1804
+Specific Heat: 0.131
+Number of Shells: 6
+Number of Valence: 

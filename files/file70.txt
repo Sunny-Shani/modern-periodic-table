@@ -1,0 +1,28 @@
+Name: Ytterbium
+Symbol: Yb
+Atomic Number: 70
+Atomic Mass: 173.054
+Number of Neutrons: 103
+Number of Protons: 70
+Number of Electrons: 70
+Period: 6
+Group: 
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.4
+Electronegativity: 1.1
+First Ionization: 6.2542
+Density: 6.97E+00
+Melting Point: 1097.15
+Boiling Point: 1469
+Number of Isotopes: 16
+Discoverer: Marignac
+Year: 1878
+Specific Heat: 0.155
+Number of Shells: 6
+Number of Valence: 

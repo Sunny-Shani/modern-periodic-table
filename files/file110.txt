@@ -1,0 +1,28 @@
+Name: Darmstadtium
+Symbol: Ds
+Atomic Number: 110
+Atomic Mass: 271
+Number of Neutrons: 161
+Number of Protons: 110
+Number of Electrons: 110
+Period: 7
+Group: 10
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transactinide
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 
+Discoverer: 
+Year: 1994
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

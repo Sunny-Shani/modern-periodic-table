@@ -1,0 +1,28 @@
+Name: Palladium
+Symbol: Pd
+Atomic Number: 46
+Atomic Mass: 106.42
+Number of Neutrons: 60
+Number of Protons: 46
+Number of Electrons: 46
+Period: 5
+Group: 10
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.8
+Electronegativity: 2.2
+First Ionization: 8.3369
+Density: 1.20E+01
+Melting Point: 1825.15
+Boiling Point: 3236
+Number of Isotopes: 21
+Discoverer: Wollaston
+Year: 1803
+Specific Heat: 0.244
+Number of Shells: 5
+Number of Valence: 

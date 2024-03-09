@@ -1,0 +1,28 @@
+Name: Samarium
+Symbol: Sm
+Atomic Number: 62
+Atomic Mass: 150.36
+Number of Neutrons: 88
+Number of Protons: 62
+Number of Electrons: 62
+Period: 6
+Group: 
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.6
+Electronegativity: 1.17
+First Ionization: 5.6437
+Density: 7.52E+00
+Melting Point: 1345.15
+Boiling Point: 2067
+Number of Isotopes: 17
+Discoverer: Boisbaudran
+Year: 1879
+Specific Heat: 0.197
+Number of Shells: 6
+Number of Valence: 

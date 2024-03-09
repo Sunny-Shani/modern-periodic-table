@@ -1,0 +1,28 @@
+Name: Rhenium
+Symbol: Re
+Atomic Number: 75
+Atomic Mass: 186.207
+Number of Neutrons: 111
+Number of Protons: 75
+Number of Electrons: 75
+Period: 6
+Group: 7
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 2
+Electronegativity: 1.9
+First Ionization: 7.8335
+Density: 2.10E+01
+Melting Point: 3453.15
+Boiling Point: 5869
+Number of Isotopes: 21
+Discoverer: "Noddack, Berg, and Tacke"
+Year: 1925
+Specific Heat: 0.137
+Number of Shells: 6
+Number of Valence: 

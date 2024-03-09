@@ -1,0 +1,28 @@
+Name: Protactinium
+Symbol: Pa
+Atomic Number: 91
+Atomic Mass: 231.036
+Number of Neutrons: 140
+Number of Protons: 91
+Number of Electrons: 91
+Period: 7
+Group: 
+Phase: solid
+Radioactive: yes
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Actinide
+Atomic Radius: 
+Electronegativity: 1.5
+First Ionization: 5.89
+Density: 1.54E+01
+Melting Point: 1873.15
+Boiling Point: 4300
+Number of Isotopes: 14
+Discoverer: Hahn and Meitner
+Year: 1917
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

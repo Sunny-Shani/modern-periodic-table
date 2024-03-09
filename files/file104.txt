@@ -1,0 +1,28 @@
+Name: Rutherfordium
+Symbol: Rf
+Atomic Number: 104
+Atomic Mass: 261
+Number of Neutrons: 157
+Number of Protons: 104
+Number of Electrons: 104
+Period: 7
+Group: 4
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transactinide
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 1.81E+01
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 
+Discoverer: Ghiorso et al.
+Year: 1969
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

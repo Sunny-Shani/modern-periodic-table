@@ -1,0 +1,28 @@
+Name: Rhodium
+Symbol: Rh
+Atomic Number: 45
+Atomic Mass: 102.906
+Number of Neutrons: 58
+Number of Protons: 45
+Number of Electrons: 45
+Period: 5
+Group: 9
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.8
+Electronegativity: 2.28
+First Ionization: 7.4589
+Density: 1.24E+01
+Melting Point: 2239.15
+Boiling Point: 3968
+Number of Isotopes: 20
+Discoverer: Wollaston
+Year: 1803
+Specific Heat: 0.243
+Number of Shells: 5
+Number of Valence: 

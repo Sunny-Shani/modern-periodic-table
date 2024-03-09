@@ -1,0 +1,28 @@
+Name: Germanium
+Symbol: Ge
+Atomic Number: 32
+Atomic Mass: 72.64
+Number of Neutrons: 41
+Number of Protons: 32
+Number of Electrons: 32
+Period: 4
+Group: 14
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: 
+Metalloid: yes
+Type: Metalloid
+Atomic Radius: 1.5
+Electronegativity: 2.01
+First Ionization: 7.8994
+Density: 5.32E+00
+Melting Point: 1211.45
+Boiling Point: 3106
+Number of Isotopes: 17
+Discoverer: Winkler
+Year: 1886
+Specific Heat: 0.32
+Number of Shells: 4
+Number of Valence: 4

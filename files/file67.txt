@@ -1,0 +1,28 @@
+Name: Holmium
+Symbol: Ho
+Atomic Number: 67
+Atomic Mass: 164.93
+Number of Neutrons: 98
+Number of Protons: 67
+Number of Electrons: 67
+Period: 6
+Group: 
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.5
+Electronegativity: 1.23
+First Ionization: 6.0215
+Density: 8.80E+00
+Melting Point: 1743.15
+Boiling Point: 2993
+Number of Isotopes: 29
+Discoverer: Delafontaine and Soret
+Year: 1878
+Specific Heat: 0.165
+Number of Shells: 6
+Number of Valence: 

@@ -1,0 +1,28 @@
+Name: Mercury
+Symbol: Hg
+Atomic Number: 80
+Atomic Mass: 200.59
+Number of Neutrons: 121
+Number of Protons: 80
+Number of Electrons: 80
+Period: 6
+Group: 12
+Phase: liq
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.8
+Electronegativity: 2
+First Ionization: 10.4375
+Density: 1.35E+01
+Melting Point: 234.43
+Boiling Point: 630
+Number of Isotopes: 26
+Discoverer: Prehistoric
+Year: 
+Specific Heat: 0.14
+Number of Shells: 6
+Number of Valence: 

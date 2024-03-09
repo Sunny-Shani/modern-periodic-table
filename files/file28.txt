@@ -1,0 +1,28 @@
+Name: Nickel
+Symbol: Ni
+Atomic Number: 28
+Atomic Mass: 58.693
+Number of Neutrons: 31
+Number of Protons: 28
+Number of Electrons: 28
+Period: 4
+Group: 10
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.6
+Electronegativity: 1.91
+First Ionization: 7.6398
+Density: 8.91E+00
+Melting Point: 1726.15
+Boiling Point: 3186
+Number of Isotopes: 11
+Discoverer: Cronstedt
+Year: 1751
+Specific Heat: 0.444
+Number of Shells: 4
+Number of Valence: 

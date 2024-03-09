@@ -1,0 +1,28 @@
+Name: Lawrencium
+Symbol: Lr
+Atomic Number: 103
+Atomic Mass: 262
+Number of Neutrons: 159
+Number of Protons: 103
+Number of Electrons: 103
+Period: 7
+Group: 
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Actinide
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 203
+Discoverer: Ghiorso et al.
+Year: 1961
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

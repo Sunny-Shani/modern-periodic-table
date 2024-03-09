@@ -1,0 +1,28 @@
+Name: Gold
+Symbol: Au
+Atomic Number: 79
+Atomic Mass: 196.967
+Number of Neutrons: 118
+Number of Protons: 79
+Number of Electrons: 79
+Period: 6
+Group: 11
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.8
+Electronegativity: 2.54
+First Ionization: 9.2255
+Density: 1.93E+01
+Melting Point: 1337.73
+Boiling Point: 3129
+Number of Isotopes: 21
+Discoverer: Prehistoric
+Year: 
+Specific Heat: 0.129
+Number of Shells: 6
+Number of Valence: 

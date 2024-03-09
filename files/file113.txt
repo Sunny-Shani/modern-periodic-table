@@ -1,0 +1,28 @@
+Name: Nihonium
+Symbol: Nh
+Atomic Number: 113
+Atomic Mass: 284
+Number of Neutrons: 171
+Number of Protons: 113
+Number of Electrons: 113
+Period: 7
+Group: 13
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: 
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 
+Discoverer: 
+Year: 2004
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 3

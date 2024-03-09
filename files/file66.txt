@@ -1,0 +1,28 @@
+Name: Dysprosium
+Symbol: Dy
+Atomic Number: 66
+Atomic Mass: 162.5
+Number of Neutrons: 97
+Number of Protons: 66
+Number of Electrons: 66
+Period: 6
+Group: 
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.5
+Electronegativity: 1.22
+First Ionization: 5.9389
+Density: 8.55E+00
+Melting Point: 1680.15
+Boiling Point: 2840
+Number of Isotopes: 21
+Discoverer: de Boisbaudran
+Year: 1886
+Specific Heat: 0.17
+Number of Shells: 6
+Number of Valence: 

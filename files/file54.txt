@@ -1,0 +1,28 @@
+Name: Xenon
+Symbol: Xe
+Atomic Number: 54
+Atomic Mass: 131.293
+Number of Neutrons: 77
+Number of Protons: 54
+Number of Electrons: 54
+Period: 5
+Group: 18
+Phase: gas
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Noble Gas
+Atomic Radius: 1.2
+Electronegativity: 
+First Ionization: 12.1298
+Density: 5.89E-03
+Melting Point: 161.45
+Boiling Point: 165.03
+Number of Isotopes: 31
+Discoverer: Ramsay and Travers
+Year: 1898
+Specific Heat: 0.158
+Number of Shells: 5
+Number of Valence: 8

@@ -1,0 +1,28 @@
+Name: Arsenic
+Symbol: As
+Atomic Number: 33
+Atomic Mass: 74.922
+Number of Neutrons: 42
+Number of Protons: 33
+Number of Electrons: 33
+Period: 4
+Group: 15
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: 
+Metalloid: yes
+Type: Metalloid
+Atomic Radius: 1.3
+Electronegativity: 2.18
+First Ionization: 9.7886
+Density: 5.78E+00
+Melting Point: 1090.15
+Boiling Point: 887
+Number of Isotopes: 14
+Discoverer: Albertus Magnus
+Year: 1250
+Specific Heat: 0.329
+Number of Shells: 4
+Number of Valence: 5

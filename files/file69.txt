@@ -1,0 +1,28 @@
+Name: Thulium
+Symbol: Tm
+Atomic Number: 69
+Atomic Mass: 168.934
+Number of Neutrons: 100
+Number of Protons: 69
+Number of Electrons: 69
+Period: 6
+Group: 
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.4
+Electronegativity: 1.25
+First Ionization: 6.1843
+Density: 9.32E+00
+Melting Point: 1818.15
+Boiling Point: 2223
+Number of Isotopes: 18
+Discoverer: Cleve
+Year: 1879
+Specific Heat: 0.16
+Number of Shells: 6
+Number of Valence: 

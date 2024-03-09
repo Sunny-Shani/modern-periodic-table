@@ -1,0 +1,28 @@
+Name: Sodium
+Symbol: Na
+Atomic Number: 11
+Atomic Mass: 22.99
+Number of Neutrons: 12
+Number of Protons: 11
+Number of Electrons: 11
+Period: 3
+Group: 1
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Alkali Metal
+Atomic Radius: 2.2
+Electronegativity: 0.93
+First Ionization: 5.1391
+Density: 9.71E-01
+Melting Point: 371.15
+Boiling Point: 1156
+Number of Isotopes: 7
+Discoverer: Davy
+Year: 1807
+Specific Heat: 1.228
+Number of Shells: 3
+Number of Valence: 1

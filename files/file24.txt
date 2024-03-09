@@ -1,0 +1,28 @@
+Name: Chromium
+Symbol: Cr
+Atomic Number: 24
+Atomic Mass: 51.996
+Number of Neutrons: 28
+Number of Protons: 24
+Number of Electrons: 24
+Period: 4
+Group: 6
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.9
+Electronegativity: 1.66
+First Ionization: 6.7665
+Density: 7.15E+00
+Melting Point: 2130.15
+Boiling Point: 2944
+Number of Isotopes: 9
+Discoverer: Vauquelin
+Year: 1797
+Specific Heat: 0.449
+Number of Shells: 4
+Number of Valence: 

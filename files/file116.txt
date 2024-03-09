@@ -1,0 +1,28 @@
+Name: Livermorium
+Symbol: Lv
+Atomic Number: 116
+Atomic Mass: 292
+Number of Neutrons: 176
+Number of Protons: 116
+Number of Electrons: 116
+Period: 7
+Group: 16
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transactinide
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 
+Discoverer: 
+Year: 2000
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 6

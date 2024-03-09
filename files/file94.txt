@@ -1,0 +1,28 @@
+Name: Plutonium
+Symbol: Pu
+Atomic Number: 94
+Atomic Mass: 244
+Number of Neutrons: 150
+Number of Protons: 94
+Number of Electrons: 94
+Period: 7
+Group: 
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Actinide
+Atomic Radius: 
+Electronegativity: 1.28
+First Ionization: 6.0262
+Density: 1.98E+01
+Melting Point: 913.15
+Boiling Point: 3501
+Number of Isotopes: 163
+Discoverer: Seaborg et al.
+Year: 1940
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

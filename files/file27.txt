@@ -1,0 +1,28 @@
+Name: Cobalt
+Symbol: Co
+Atomic Number: 27
+Atomic Mass: 58.933
+Number of Neutrons: 32
+Number of Protons: 27
+Number of Electrons: 27
+Period: 4
+Group: 9
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.7
+Electronegativity: 1.88
+First Ionization: 7.881
+Density: 8.86E+00
+Melting Point: 1768.15
+Boiling Point: 3200
+Number of Isotopes: 14
+Discoverer: Brandt
+Year: 1735
+Specific Heat: 0.421
+Number of Shells: 4
+Number of Valence: 

@@ -1,0 +1,28 @@
+Name: Sulfur
+Symbol: S
+Atomic Number: 16
+Atomic Mass: 32.065
+Number of Neutrons: 16
+Number of Protons: 16
+Number of Electrons: 16
+Period: 3
+Group: 16
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Nonmetal
+Atomic Radius: 1.1
+Electronegativity: 2.58
+First Ionization: 10.36
+Density: 2.07E+00
+Melting Point: 388.51
+Boiling Point: 717.8
+Number of Isotopes: 10
+Discoverer: Prehistoric
+Year: 
+Specific Heat: 0.71
+Number of Shells: 3
+Number of Valence: 6

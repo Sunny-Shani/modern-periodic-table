@@ -1,0 +1,28 @@
+Name: Gadolinium
+Symbol: Gd
+Atomic Number: 64
+Atomic Mass: 157.25
+Number of Neutrons: 93
+Number of Protons: 64
+Number of Electrons: 64
+Period: 6
+Group: 
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.5
+Electronegativity: 1.2
+First Ionization: 6.1501
+Density: 7.90E+00
+Melting Point: 1585.15
+Boiling Point: 3546
+Number of Isotopes: 17
+Discoverer: de Marignac
+Year: 1880
+Specific Heat: 0.236
+Number of Shells: 6
+Number of Valence: 

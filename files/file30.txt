@@ -1,0 +1,28 @@
+Name: Zinc
+Symbol: Zn
+Atomic Number: 30
+Atomic Mass: 65.38
+Number of Neutrons: 35
+Number of Protons: 30
+Number of Electrons: 30
+Period: 4
+Group: 12
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.5
+Electronegativity: 1.65
+First Ionization: 9.3942
+Density: 7.13E+00
+Melting Point: 692.88
+Boiling Point: 1180
+Number of Isotopes: 15
+Discoverer: Prehistoric
+Year: 
+Specific Heat: 0.388
+Number of Shells: 4
+Number of Valence: 

@@ -1,0 +1,28 @@
+Name: Aluminum
+Symbol: Al
+Atomic Number: 13
+Atomic Mass: 26.982
+Number of Neutrons: 14
+Number of Protons: 13
+Number of Electrons: 13
+Period: 3
+Group: 13
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Metal
+Atomic Radius: 1.8
+Electronegativity: 1.61
+First Ionization: 5.9858
+Density: 2.70E+00
+Melting Point: 933.4
+Boiling Point: 2792
+Number of Isotopes: 8
+Discoverer: Wshler
+Year: 1827
+Specific Heat: 0.897
+Number of Shells: 3
+Number of Valence: 3

@@ -1,0 +1,28 @@
+Name: Tennessine
+Symbol: Ts
+Atomic Number: 117
+Atomic Mass: 295
+Number of Neutrons: 178
+Number of Protons: 117
+Number of Electrons: 117
+Period: 7
+Group: 17
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: 
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 
+Discoverer: 
+Year: 2010
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 7

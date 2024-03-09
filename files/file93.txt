@@ -1,0 +1,28 @@
+Name: Neptunium
+Symbol: Np
+Atomic Number: 93
+Atomic Mass: 237
+Number of Neutrons: 144
+Number of Protons: 93
+Number of Electrons: 93
+Period: 7
+Group: 
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Actinide
+Atomic Radius: 
+Electronegativity: 1.36
+First Ionization: 6.2657
+Density: 2.05E+01
+Melting Point: 913.15
+Boiling Point: 4273
+Number of Isotopes: 153
+Discoverer: McMillan and Abelson
+Year: 1940
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

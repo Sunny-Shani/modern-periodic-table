@@ -1,0 +1,28 @@
+Name: Erbium
+Symbol: Er
+Atomic Number: 68
+Atomic Mass: 167.259
+Number of Neutrons: 99
+Number of Protons: 68
+Number of Electrons: 68
+Period: 6
+Group: 
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.5
+Electronegativity: 1.24
+First Ionization: 6.1077
+Density: 9.07E+00
+Melting Point: 1795.15
+Boiling Point: 3503
+Number of Isotopes: 16
+Discoverer: Mosander
+Year: 1843
+Specific Heat: 0.168
+Number of Shells: 6
+Number of Valence: 

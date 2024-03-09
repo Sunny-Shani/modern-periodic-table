@@ -1,0 +1,28 @@
+Name: Bismuth
+Symbol: Bi
+Atomic Number: 83
+Atomic Mass: 208.98
+Number of Neutrons: 126
+Number of Protons: 83
+Number of Electrons: 83
+Period: 6
+Group: 15
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Metal
+Atomic Radius: 1.6
+Electronegativity: 2.02
+First Ionization: 7.2856
+Density: 9.81E+00
+Melting Point: 544.67
+Boiling Point: 1837
+Number of Isotopes: 19
+Discoverer: Geoffroy the Younger
+Year: 1753
+Specific Heat: 0.122
+Number of Shells: 6
+Number of Valence: 5

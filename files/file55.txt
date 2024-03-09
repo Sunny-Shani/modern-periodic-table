@@ -1,0 +1,28 @@
+Name: Cesium
+Symbol: Cs
+Atomic Number: 55
+Atomic Mass: 132.905
+Number of Neutrons: 78
+Number of Protons: 55
+Number of Electrons: 55
+Period: 6
+Group: 1
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Alkali Metal
+Atomic Radius: 3.3
+Electronegativity: 0.79
+First Ionization: 3.8939
+Density: 1.87E+00
+Melting Point: 301.7
+Boiling Point: 944
+Number of Isotopes: 22
+Discoverer: Bunsen and Kirchoff
+Year: 1860
+Specific Heat: 0.242
+Number of Shells: 6
+Number of Valence: 1

@@ -1,0 +1,28 @@
+Name: Tellurium
+Symbol: Te
+Atomic Number: 52
+Atomic Mass: 127.6
+Number of Neutrons: 76
+Number of Protons: 52
+Number of Electrons: 52
+Period: 5
+Group: 16
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: 
+Metalloid: yes
+Type: Metalloid
+Atomic Radius: 1.4
+Electronegativity: 2.1
+First Ionization: 9.0096
+Density: 6.23E+00
+Melting Point: 722.8
+Boiling Point: 1261
+Number of Isotopes: 29
+Discoverer: von Reichenstein
+Year: 1782
+Specific Heat: 0.202
+Number of Shells: 5
+Number of Valence: 6

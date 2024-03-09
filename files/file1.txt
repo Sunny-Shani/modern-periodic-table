@@ -1,0 +1,28 @@
+Name: Hydrogen
+Symbol: H
+Atomic Number: 1
+Atomic Mass: 1.007
+Number of Neutrons: 0
+Number of Protons: 1
+Number of Electrons: 1
+Period: 1
+Group: 1
+Phase: gas
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Nonmetal
+Atomic Radius: 0.79
+Electronegativity: 2.2
+First Ionization: 13.5984
+Density: 8.99E-05
+Melting Point: 14.175
+Boiling Point: 20.28
+Number of Isotopes: 3
+Discoverer: Cavendish
+Year: 1766
+Specific Heat: 14.304
+Number of Shells: 1
+Number of Valence: 1

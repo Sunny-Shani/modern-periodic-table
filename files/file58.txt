@@ -1,0 +1,28 @@
+Name: Cerium
+Symbol: Ce
+Atomic Number: 58
+Atomic Mass: 140.116
+Number of Neutrons: 82
+Number of Protons: 58
+Number of Electrons: 58
+Period: 6
+Group: 
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.7
+Electronegativity: 1.12
+First Ionization: 5.5387
+Density: 6.77E+00
+Melting Point: 1071.15
+Boiling Point: 3716
+Number of Isotopes: 19
+Discoverer: Berzelius
+Year: 1803
+Specific Heat: 0.192
+Number of Shells: 6
+Number of Valence: 

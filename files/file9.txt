@@ -1,0 +1,28 @@
+Name: Fluorine
+Symbol: F
+Atomic Number: 9
+Atomic Mass: 18.998
+Number of Neutrons: 10
+Number of Protons: 9
+Number of Electrons: 9
+Period: 2
+Group: 17
+Phase: gas
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Halogen
+Atomic Radius: 0.57
+Electronegativity: 3.98
+First Ionization: 17.4228
+Density: 1.70E-03
+Melting Point: 53.63
+Boiling Point: 85.03
+Number of Isotopes: 6
+Discoverer: Moissan
+Year: 1886
+Specific Heat: 0.824
+Number of Shells: 2
+Number of Valence: 7

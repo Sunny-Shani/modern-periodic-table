@@ -1,0 +1,28 @@
+Name: Rubidium
+Symbol: Rb
+Atomic Number: 37
+Atomic Mass: 85.468
+Number of Neutrons: 48
+Number of Protons: 37
+Number of Electrons: 37
+Period: 5
+Group: 1
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Alkali Metal
+Atomic Radius: 3
+Electronegativity: 0.82
+First Ionization: 4.1771
+Density: 1.53E+00
+Melting Point: 312.79
+Boiling Point: 961
+Number of Isotopes: 20
+Discoverer: Bunsen and Kirchoff
+Year: 1861
+Specific Heat: 0.363
+Number of Shells: 5
+Number of Valence: 1

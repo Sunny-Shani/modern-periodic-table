@@ -1,0 +1,28 @@
+Name: Francium
+Symbol: Fr
+Atomic Number: 87
+Atomic Mass: 223
+Number of Neutrons: 136
+Number of Protons: 87
+Number of Electrons: 87
+Period: 7
+Group: 1
+Phase: solid
+Radioactive: yes
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Alkaline Earth Metal
+Atomic Radius: 
+Electronegativity: 0.7
+First Ionization: 4.0727
+Density: 1.87E+00
+Melting Point: 300.15
+Boiling Point: 950
+Number of Isotopes: 21
+Discoverer: Perey
+Year: 1939
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 1

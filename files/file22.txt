@@ -1,0 +1,28 @@
+Name: Titanium
+Symbol: Ti
+Atomic Number: 22
+Atomic Mass: 47.867
+Number of Neutrons: 26
+Number of Protons: 22
+Number of Electrons: 22
+Period: 4
+Group: 4
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 2
+Electronegativity: 1.54
+First Ionization: 6.8281
+Density: 4.54E+00
+Melting Point: 1933.15
+Boiling Point: 3560
+Number of Isotopes: 9
+Discoverer: Gregor
+Year: 1791
+Specific Heat: 0.523
+Number of Shells: 4
+Number of Valence: 

@@ -1,0 +1,28 @@
+Name: Tin
+Symbol: Sn
+Atomic Number: 50
+Atomic Mass: 118.71
+Number of Neutrons: 69
+Number of Protons: 50
+Number of Electrons: 50
+Period: 5
+Group: 14
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Metal
+Atomic Radius: 1.7
+Electronegativity: 1.96
+First Ionization: 7.3439
+Density: 7.29E+00
+Melting Point: 505.21
+Boiling Point: 2875
+Number of Isotopes: 28
+Discoverer: Prehistoric
+Year: 
+Specific Heat: 0.228
+Number of Shells: 5
+Number of Valence: 4

@@ -1,0 +1,28 @@
+Name: Cadmium
+Symbol: Cd
+Atomic Number: 48
+Atomic Mass: 112.411
+Number of Neutrons: 64
+Number of Protons: 48
+Number of Electrons: 48
+Period: 5
+Group: 12
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.7
+Electronegativity: 1.69
+First Ionization: 8.9938
+Density: 8.69E+00
+Melting Point: 594.33
+Boiling Point: 1040
+Number of Isotopes: 22
+Discoverer: Stromeyer
+Year: 1817
+Specific Heat: 0.232
+Number of Shells: 5
+Number of Valence: 

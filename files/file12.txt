@@ -1,0 +1,28 @@
+Name: Magnesium
+Symbol: Mg
+Atomic Number: 12
+Atomic Mass: 24.305
+Number of Neutrons: 12
+Number of Protons: 12
+Number of Electrons: 12
+Period: 3
+Group: 2
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Alkaline Earth Metal
+Atomic Radius: 1.7
+Electronegativity: 1.31
+First Ionization: 7.6462
+Density: 1.74E+00
+Melting Point: 923.15
+Boiling Point: 1363
+Number of Isotopes: 8
+Discoverer: Black
+Year: 1755
+Specific Heat: 1.023
+Number of Shells: 3
+Number of Valence: 2

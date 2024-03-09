@@ -1,0 +1,28 @@
+Name: Gallium
+Symbol: Ga
+Atomic Number: 31
+Atomic Mass: 69.723
+Number of Neutrons: 39
+Number of Protons: 31
+Number of Electrons: 31
+Period: 4
+Group: 13
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Metal
+Atomic Radius: 1.8
+Electronegativity: 1.81
+First Ionization: 5.9993
+Density: 5.91E+00
+Melting Point: 302.91
+Boiling Point: 2477
+Number of Isotopes: 14
+Discoverer: de Boisbaudran
+Year: 1875
+Specific Heat: 0.371
+Number of Shells: 4
+Number of Valence: 3

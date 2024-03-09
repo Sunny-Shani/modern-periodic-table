@@ -1,0 +1,28 @@
+Name: Roentgenium
+Symbol: Rg
+Atomic Number: 111
+Atomic Mass: 272
+Number of Neutrons: 161
+Number of Protons: 111
+Number of Electrons: 111
+Period: 7
+Group: 11
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transactinide
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 
+Discoverer: 
+Year: 1994
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

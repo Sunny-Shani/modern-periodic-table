@@ -1,0 +1,28 @@
+Name: Neodymium
+Symbol: Nd
+Atomic Number: 60
+Atomic Mass: 144.242
+Number of Neutrons: 84
+Number of Protons: 60
+Number of Electrons: 60
+Period: 6
+Group: 
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.6
+Electronegativity: 1.14
+First Ionization: 5.525
+Density: 7.01E+00
+Melting Point: 1289.15
+Boiling Point: 3347
+Number of Isotopes: 16
+Discoverer: von Welsbach
+Year: 1885
+Specific Heat: 0.19
+Number of Shells: 6
+Number of Valence: 

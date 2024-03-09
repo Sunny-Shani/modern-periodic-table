@@ -1,0 +1,28 @@
+Name: Lithium
+Symbol: Li
+Atomic Number: 3
+Atomic Mass: 6.941
+Number of Neutrons: 4
+Number of Protons: 3
+Number of Electrons: 3
+Period: 2
+Group: 1
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Alkali Metal
+Atomic Radius: 2.1
+Electronegativity: 0.98
+First Ionization: 5.3917
+Density: 5.34E-01
+Melting Point: 453.85
+Boiling Point: 1615
+Number of Isotopes: 5
+Discoverer: Arfvedson
+Year: 1817
+Specific Heat: 3.582
+Number of Shells: 2
+Number of Valence: 1

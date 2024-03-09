@@ -1,0 +1,28 @@
+Name: Platinum
+Symbol: Pt
+Atomic Number: 78
+Atomic Mass: 195.084
+Number of Neutrons: 117
+Number of Protons: 78
+Number of Electrons: 78
+Period: 6
+Group: 10
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.8
+Electronegativity: 2.28
+First Ionization: 8.9587
+Density: 2.15E+01
+Melting Point: 2045.15
+Boiling Point: 4098
+Number of Isotopes: 32
+Discoverer: Ulloa/Wood
+Year: 1735
+Specific Heat: 0.133
+Number of Shells: 6
+Number of Valence: 

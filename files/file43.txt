@@ -1,0 +1,28 @@
+Name: Technetium
+Symbol: Tc
+Atomic Number: 43
+Atomic Mass: 98
+Number of Neutrons: 55
+Number of Protons: 43
+Number of Electrons: 43
+Period: 5
+Group: 7
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 2
+Electronegativity: 1.9
+First Ionization: 7.28
+Density: 1.15E+01
+Melting Point: 2473.15
+Boiling Point: 5150
+Number of Isotopes: 23
+Discoverer: Perrier and Segr�
+Year: 1937
+Specific Heat: 
+Number of Shells: 5
+Number of Valence: 

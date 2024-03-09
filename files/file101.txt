@@ -1,0 +1,28 @@
+Name: Mendelevium
+Symbol: Md
+Atomic Number: 101
+Atomic Mass: 258
+Number of Neutrons: 157
+Number of Protons: 101
+Number of Electrons: 101
+Period: 7
+Group: 
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Actinide
+Atomic Radius: 
+Electronegativity: 1.3
+First Ionization: 6.58
+Density: 
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 33
+Discoverer: Ghiorso et al.
+Year: 1955
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

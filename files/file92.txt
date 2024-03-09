@@ -1,0 +1,28 @@
+Name: Uranium
+Symbol: U
+Atomic Number: 92
+Atomic Mass: 238.029
+Number of Neutrons: 146
+Number of Protons: 92
+Number of Electrons: 92
+Period: 7
+Group: 
+Phase: solid
+Radioactive: yes
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Actinide
+Atomic Radius: 
+Electronegativity: 1.38
+First Ionization: 6.1941
+Density: 1.90E+01
+Melting Point: 1405.15
+Boiling Point: 4404
+Number of Isotopes: 15
+Discoverer: Peligot
+Year: 1841
+Specific Heat: 0.116
+Number of Shells: 7
+Number of Valence: 

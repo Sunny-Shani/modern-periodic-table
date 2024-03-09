@@ -1,0 +1,28 @@
+Name: Indium
+Symbol: In
+Atomic Number: 49
+Atomic Mass: 114.818
+Number of Neutrons: 66
+Number of Protons: 49
+Number of Electrons: 49
+Period: 5
+Group: 13
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Metal
+Atomic Radius: 2
+Electronegativity: 1.78
+First Ionization: 5.7864
+Density: 7.31E+00
+Melting Point: 429.91
+Boiling Point: 2345
+Number of Isotopes: 34
+Discoverer: Reich and Richter
+Year: 1863
+Specific Heat: 0.233
+Number of Shells: 5
+Number of Valence: 3

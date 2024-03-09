@@ -1,0 +1,28 @@
+Name: Antimony
+Symbol: Sb
+Atomic Number: 51
+Atomic Mass: 121.76
+Number of Neutrons: 71
+Number of Protons: 51
+Number of Electrons: 51
+Period: 5
+Group: 15
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: 
+Metalloid: yes
+Type: Metalloid
+Atomic Radius: 1.5
+Electronegativity: 2.05
+First Ionization: 8.6084
+Density: 6.69E+00
+Melting Point: 904.05
+Boiling Point: 1860
+Number of Isotopes: 29
+Discoverer: Early historic times
+Year: 
+Specific Heat: 0.207
+Number of Shells: 5
+Number of Valence: 5

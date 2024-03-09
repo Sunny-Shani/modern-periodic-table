@@ -1,0 +1,28 @@
+Name: Lanthanum
+Symbol: La
+Atomic Number: 57
+Atomic Mass: 138.905
+Number of Neutrons: 82
+Number of Protons: 57
+Number of Electrons: 57
+Period: 6
+Group: 3
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.7
+Electronegativity: 1.1
+First Ionization: 5.5769
+Density: 6.15E+00
+Melting Point: 1193.15
+Boiling Point: 3737
+Number of Isotopes: 19
+Discoverer: Mosander
+Year: 1839
+Specific Heat: 0.195
+Number of Shells: 6
+Number of Valence: 

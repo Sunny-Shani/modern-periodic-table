@@ -1,0 +1,28 @@
+Name: Copper
+Symbol: Cu
+Atomic Number: 29
+Atomic Mass: 63.546
+Number of Neutrons: 35
+Number of Protons: 29
+Number of Electrons: 29
+Period: 4
+Group: 11
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.6
+Electronegativity: 1.9
+First Ionization: 7.7264
+Density: 8.96E+00
+Melting Point: 1357.75
+Boiling Point: 2835
+Number of Isotopes: 11
+Discoverer: Prehistoric
+Year: 
+Specific Heat: 0.385
+Number of Shells: 4
+Number of Valence: 

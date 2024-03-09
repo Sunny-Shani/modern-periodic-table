@@ -1,0 +1,28 @@
+Name: Dubnium
+Symbol: Db
+Atomic Number: 105
+Atomic Mass: 262
+Number of Neutrons: 157
+Number of Protons: 105
+Number of Electrons: 105
+Period: 7
+Group: 5
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transactinide
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 3.90E+01
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 
+Discoverer: Ghiorso et al.
+Year: 1970
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

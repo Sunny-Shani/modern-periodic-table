@@ -1,0 +1,28 @@
+Name: Calcium
+Symbol: Ca
+Atomic Number: 20
+Atomic Mass: 40.078
+Number of Neutrons: 20
+Number of Protons: 20
+Number of Electrons: 20
+Period: 4
+Group: 2
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Alkaline Earth Metal
+Atomic Radius: 2.2
+Electronegativity: 1
+First Ionization: 6.1132
+Density: 1.54E+00
+Melting Point: 1112.15
+Boiling Point: 1757
+Number of Isotopes: 14
+Discoverer: Davy
+Year: 1808
+Specific Heat: 0.647
+Number of Shells: 4
+Number of Valence: 2

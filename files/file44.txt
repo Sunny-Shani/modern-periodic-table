@@ -1,0 +1,28 @@
+Name: Ruthenium
+Symbol: Ru
+Atomic Number: 44
+Atomic Mass: 101.07
+Number of Neutrons: 57
+Number of Protons: 44
+Number of Electrons: 44
+Period: 5
+Group: 8
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.9
+Electronegativity: 2.2
+First Ionization: 7.3605
+Density: 1.24E+01
+Melting Point: 2523.15
+Boiling Point: 4423
+Number of Isotopes: 16
+Discoverer: Klaus
+Year: 1844
+Specific Heat: 0.238
+Number of Shells: 5
+Number of Valence: 

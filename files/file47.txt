@@ -1,0 +1,28 @@
+Name: Silver
+Symbol: Ag
+Atomic Number: 47
+Atomic Mass: 107.868
+Number of Neutrons: 61
+Number of Protons: 47
+Number of Electrons: 47
+Period: 5
+Group: 11
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.8
+Electronegativity: 1.93
+First Ionization: 7.5762
+Density: 1.05E+01
+Melting Point: 1234.15
+Boiling Point: 2435
+Number of Isotopes: 27
+Discoverer: Prehistoric
+Year: 
+Specific Heat: 0.235
+Number of Shells: 5
+Number of Valence: 

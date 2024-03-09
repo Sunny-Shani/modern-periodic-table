@@ -1,0 +1,28 @@
+Name: Manganese
+Symbol: Mn
+Atomic Number: 25
+Atomic Mass: 54.938
+Number of Neutrons: 30
+Number of Protons: 25
+Number of Electrons: 25
+Period: 4
+Group: 7
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.8
+Electronegativity: 1.55
+First Ionization: 7.434
+Density: 7.44E+00
+Melting Point: 1519.15
+Boiling Point: 2334
+Number of Isotopes: 11
+Discoverer: "Gahn, Scheele"
+Year: 1774
+Specific Heat: 0.479
+Number of Shells: 4
+Number of Valence: 

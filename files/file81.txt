@@ -1,0 +1,28 @@
+Name: Thallium
+Symbol: Tl
+Atomic Number: 81
+Atomic Mass: 204.383
+Number of Neutrons: 123
+Number of Protons: 81
+Number of Electrons: 81
+Period: 6
+Group: 13
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Metal
+Atomic Radius: 2.1
+Electronegativity: 2.04
+First Ionization: 6.1082
+Density: 1.19E+01
+Melting Point: 577.15
+Boiling Point: 1746
+Number of Isotopes: 28
+Discoverer: Crookes
+Year: 1861
+Specific Heat: 0.129
+Number of Shells: 6
+Number of Valence: 3

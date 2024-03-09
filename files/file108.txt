@@ -1,0 +1,28 @@
+Name: Hassium
+Symbol: Hs
+Atomic Number: 108
+Atomic Mass: 267
+Number of Neutrons: 159
+Number of Protons: 108
+Number of Electrons: 108
+Period: 7
+Group: 8
+Phase: artificial
+Radioactive: yes
+Natural: 
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transactinide
+Atomic Radius: 
+Electronegativity: 
+First Ionization: 
+Density: 4.10E+01
+Melting Point: 
+Boiling Point: 
+Number of Isotopes: 
+Discoverer: Armbruster and M�nzenberg
+Year: 1983
+Specific Heat: 
+Number of Shells: 7
+Number of Valence: 

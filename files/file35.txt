@@ -1,0 +1,28 @@
+Name: Bromine
+Symbol: Br
+Atomic Number: 35
+Atomic Mass: 79.904
+Number of Neutrons: 45
+Number of Protons: 35
+Number of Electrons: 35
+Period: 4
+Group: 17
+Phase: liq
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Halogen
+Atomic Radius: 1.1
+Electronegativity: 2.96
+First Ionization: 11.8138
+Density: 3.12E+00
+Melting Point: 266.05
+Boiling Point: 332
+Number of Isotopes: 19
+Discoverer: Balard
+Year: 1826
+Specific Heat: 0.474
+Number of Shells: 4
+Number of Valence: 7

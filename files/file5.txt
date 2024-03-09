@@ -1,0 +1,28 @@
+Name: Boron
+Symbol: B
+Atomic Number: 5
+Atomic Mass: 10.811
+Number of Neutrons: 6
+Number of Protons: 5
+Number of Electrons: 5
+Period: 2
+Group: 13
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: 
+Metalloid: yes
+Type: Metalloid
+Atomic Radius: 1.2
+Electronegativity: 2.04
+First Ionization: 8.298
+Density: 2.34E+00
+Melting Point: 2573.15
+Boiling Point: 4200
+Number of Isotopes: 6
+Discoverer: Gay-Lussac
+Year: 1808
+Specific Heat: 1.026
+Number of Shells: 2
+Number of Valence: 3

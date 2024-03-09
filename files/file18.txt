@@ -1,0 +1,28 @@
+Name: Argon
+Symbol: Ar
+Atomic Number: 18
+Atomic Mass: 39.948
+Number of Neutrons: 22
+Number of Protons: 18
+Number of Electrons: 18
+Period: 3
+Group: 18
+Phase: gas
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Noble Gas
+Atomic Radius: 0.88
+Electronegativity: 
+First Ionization: 15.7596
+Density: 1.78E-03
+Melting Point: 83.96
+Boiling Point: 87.3
+Number of Isotopes: 8
+Discoverer: Rayleigh and Ramsay
+Year: 1894
+Specific Heat: 0.52
+Number of Shells: 3
+Number of Valence: 8

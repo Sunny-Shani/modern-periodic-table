@@ -1,0 +1,28 @@
+Name: Silicon
+Symbol: Si
+Atomic Number: 14
+Atomic Mass: 28.086
+Number of Neutrons: 14
+Number of Protons: 14
+Number of Electrons: 14
+Period: 3
+Group: 14
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: 
+Nonmetal: 
+Metalloid: yes
+Type: Metalloid
+Atomic Radius: 1.5
+Electronegativity: 1.9
+First Ionization: 8.1517
+Density: 2.33E+00
+Melting Point: 1683.15
+Boiling Point: 3538
+Number of Isotopes: 8
+Discoverer: Berzelius
+Year: 1824
+Specific Heat: 0.705
+Number of Shells: 3
+Number of Valence: 4

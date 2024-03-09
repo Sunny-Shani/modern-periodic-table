@@ -1,0 +1,28 @@
+Name: Astatine
+Symbol: At
+Atomic Number: 85
+Atomic Mass: 210
+Number of Neutrons: 125
+Number of Protons: 85
+Number of Electrons: 85
+Period: 6
+Group: 17
+Phase: solid
+Radioactive: yes
+Natural: yes
+Metal: 
+Nonmetal: yes
+Metalloid: 
+Type: Noble Gas
+Atomic Radius: 1.4
+Electronegativity: 2.2
+First Ionization: 9.3
+Density: 7.00E+00
+Melting Point: 575.15
+Boiling Point: 610
+Number of Isotopes: 21
+Discoverer: Corson et al.
+Year: 1940
+Specific Heat: 
+Number of Shells: 6
+Number of Valence: 7

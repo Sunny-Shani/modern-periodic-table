@@ -1,0 +1,28 @@
+Name: Yttrium
+Symbol: Y
+Atomic Number: 39
+Atomic Mass: 88.906
+Number of Neutrons: 50
+Number of Protons: 39
+Number of Electrons: 39
+Period: 5
+Group: 3
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 2.3
+Electronegativity: 1.22
+First Ionization: 6.2173
+Density: 4.47E+00
+Melting Point: 1799.15
+Boiling Point: 3609
+Number of Isotopes: 21
+Discoverer: Gadolin
+Year: 1794
+Specific Heat: 0.298
+Number of Shells: 5
+Number of Valence: 

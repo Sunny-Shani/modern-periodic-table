@@ -1,0 +1,28 @@
+Name: Barium
+Symbol: Ba
+Atomic Number: 56
+Atomic Mass: 137.327
+Number of Neutrons: 81
+Number of Protons: 56
+Number of Electrons: 56
+Period: 6
+Group: 2
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Alkaline Earth Metal
+Atomic Radius: 2.8
+Electronegativity: 0.89
+First Ionization: 5.2117
+Density: 3.59E+00
+Melting Point: 1002.15
+Boiling Point: 2170
+Number of Isotopes: 25
+Discoverer: Davy
+Year: 1808
+Specific Heat: 0.204
+Number of Shells: 6
+Number of Valence: 2

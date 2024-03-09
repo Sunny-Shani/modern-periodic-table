@@ -1,0 +1,28 @@
+Name: Europium
+Symbol: Eu
+Atomic Number: 63
+Atomic Mass: 151.964
+Number of Neutrons: 89
+Number of Protons: 63
+Number of Electrons: 63
+Period: 6
+Group: 
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Lanthanide
+Atomic Radius: 2.6
+Electronegativity: 1.2
+First Ionization: 5.6704
+Density: 5.24E+00
+Melting Point: 1095.15
+Boiling Point: 1802
+Number of Isotopes: 21
+Discoverer: Demarcay
+Year: 1901
+Specific Heat: 0.182
+Number of Shells: 6
+Number of Valence: 

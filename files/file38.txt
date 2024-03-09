@@ -1,0 +1,28 @@
+Name: Strontium
+Symbol: Sr
+Atomic Number: 38
+Atomic Mass: 87.62
+Number of Neutrons: 50
+Number of Protons: 38
+Number of Electrons: 38
+Period: 5
+Group: 2
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Alkaline Earth Metal
+Atomic Radius: 2.5
+Electronegativity: 0.95
+First Ionization: 5.6949
+Density: 2.64E+00
+Melting Point: 1042.15
+Boiling Point: 1655
+Number of Isotopes: 18
+Discoverer: Davy
+Year: 1808
+Specific Heat: 0.301
+Number of Shells: 5
+Number of Valence: 2

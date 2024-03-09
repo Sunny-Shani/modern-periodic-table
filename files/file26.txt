@@ -1,0 +1,28 @@
+Name: Iron
+Symbol: Fe
+Atomic Number: 26
+Atomic Mass: 55.845
+Number of Neutrons: 30
+Number of Protons: 26
+Number of Electrons: 26
+Period: 4
+Group: 8
+Phase: solid
+Radioactive: 
+Natural: yes
+Metal: yes
+Nonmetal: 
+Metalloid: 
+Type: Transition Metal
+Atomic Radius: 1.7
+Electronegativity: 1.83
+First Ionization: 7.9024
+Density: 7.87E+00
+Melting Point: 1808.15
+Boiling Point: 3134
+Number of Isotopes: 10
+Discoverer: Prehistoric
+Year: 
+Specific Heat: 0.449
+Number of Shells: 4
+Number of Valence: 
